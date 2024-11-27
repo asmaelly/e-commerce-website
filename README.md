@@ -1,2 +1,2 @@
-# e-commerce-website
+# e-commerce website
 build with html and css 
